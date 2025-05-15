@@ -1,4 +1,4 @@
-# 💱 [Currency Converter Website]([url](https://akshatsrivastava26.github.io/Currency_Converter/))  
+# [💱 Currency Converter Website](https://akshatsrivastava26.github.io/Currency_Converter/)
 
 This is a simple website that lets you convert money from one currency to another using real-time exchange rates.
 
